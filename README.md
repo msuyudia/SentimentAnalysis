@@ -15,10 +15,17 @@ Run SentimentAnalysis.py for get a few bar charts of infographic people's sentim
 Run Evaluation.py for get results of total accuracy of SentimentAnalysis.py.
 
 Notes :
+
 -list_cleaned_tweets.txt is text for all cleaned tweets after results of function text_preprocessing
+
 -list_daerah.txt is text for all places that want to be classified, in this case in DKI Jakarta, such as Kotamadya, Kecamatan and Kelurahan. Places divided by "|", which is format like this "Kelurahan | Kecamatan | Kotamadya"
+
 -normalization_words.txt is text for all words that must be normalized, for example slank words, abbreviation, and another non-standard words.
+
 -tweets_all.txt, tweets_all_2.txt, etc is text for all results text after crawling based on query search in Crawling.py this tweets divided by dates and tweets, which is format like this "Date | Tweet"
+
 -tweets_predicted_labels.txt is results label after classified sentiment based on tweets_training.txt labels use K-Nearest Neighbor (K-NN) method
+
 -tweets_testing.txt is a data testing to classify which data positive sentiment, netral sentiment and negative sentiment, which is format like this "Date | Tweet"
+
 -tweets_training.txt is a data training as basis sentiment for classify, which is format like this "Label | Tweet"
