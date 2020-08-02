@@ -1,0 +1,257 @@
+cilincing | cilincing | jakut
+kalibaru | cilincing | jakut
+marunda | cilincing | jakut
+rorotan | cilincing | jakut
+semper barat | cilincing | jakut
+semper timur | cilincing | jakut
+sukapura | cilincing | jakut
+kelapa gading barat | kelapa gading | jakut
+kelapa gading timur | kelapa gading | jakut
+pegangsaan dua | kelapa gading | jakut
+koja | koja | jakut
+lagoa | koja | jakut
+rawa badak selatan | koja | jakut
+rawa badak utara | koja | jakut
+tugu selatan | koja | jakut
+tugu utara | koja | jakut
+ancol | pademangan | jakut
+pademangan barat | pademangan | jakut
+pademangan timur | pademangan | jakut
+kamal muara | penjaringan | jakut
+kapuk muara | penjaringan | jakut
+pejagalan | penjaringan | jakut
+penjaringan | penjaringan | jakut
+pluit | penjaringan | jakut
+kebon bawang | tanjung priok | jakut
+papanggo | tanjung priok | jakut
+sungai bambu | tanjung priok | jakut
+sunter agung | tanjung priok | jakut
+sunter jaya | tanjung priok | jakut
+tanjung priok | tanjung priok | jakut
+warakas | tanjung priok | jakut
+cempaka putih barat | cempaka putih | jakpus
+cempaka putih timur | cempaka putih | jakpus
+rawasari | cempaka putih | jakpus
+cideng | gambir | jakpus
+duri pulo | gambir | jakpus
+gambir | gambir | jakpus
+kebon kelapa | gambir | jakpus
+petojo selatan | gambir | jakpus
+petojo utara | gambir | jakpus
+galur | johar baru | jakpus
+johar baru | johar baru | jakpus
+kampung rawa | johar baru | jakpus
+tanah tinggi | johar baru | jakpus
+cempaka baru | kemayoran | jakpus
+gunung sahari selatan | kemayoran | jakpus
+harapan mulya | kemayoran | jakpus
+kebon kosong | kemayoran | jakpus
+kemayoran | kemayoran | jakpus
+serdang | kemayoran | jakpus
+sumur batu | kemayoran | jakpus
+utan panjang | kemayoran | jakpus
+cikini | menteng | jakpus
+gondangdia | menteng | jakpus
+kebon sirih | menteng | jakpus
+menteng | menteng | jakpus
+pegangsaan | menteng | jakpus
+gunung sahari utara | sawah besar | jakpus
+karang anyar | sawah besar | jakpus
+kartini | sawah besar | jakpus
+mangga dua selatan | sawah besar | jakpus
+pasar baru | sawah besar | jakpus
+bungur | senen | jakpus
+kenari | senen | jakpus
+kramat | senen | jakpus
+kwitang | senen | jakpus
+paseban | senen | jakpus
+senen | senen | jakpus
+bendungan hilir | tanah abang | jakpus
+gelora | tanah abang | jakpus
+kampung bali | tanah abang | jakpus
+karet tengsin | tanah abang | jakpus
+kebon kacang | tanah abang | jakpus
+kebon melati | tanah abang | jakpus
+petamburan | tanah abang | jakpus
+cakung barat | cakung | jaktim
+cakung timur | cakung | jaktim
+jatinegara | cakung | jaktim
+penggilingan | cakung | jaktim
+pulo gebang | cakung | jaktim
+rawa terate | cakung | jaktim
+ujung menteng | cakung | jaktim
+bambu apus | cipayung | jaktim
+ceger | cipayung | jaktim
+cilangkap | cipayung | jaktim
+cipayung | cipayung | jaktim
+lubang buaya | cipayung | jaktim
+munjul | cipayung | jaktim
+pondok ranggon | cipayung | jaktim
+setu | cipayung | jaktim
+cibubur | ciracas | jaktim
+ciracas | ciracas | jaktim
+kelapa dua wetan | ciracas | jaktim
+rambutan | ciracas | jaktim
+susukan | ciracas | jaktim
+duren sawit | duren sawit | jaktim
+klender | duren sawit | jaktim
+malaka jaya | duren sawit | jaktim
+malaka sari | duren sawit | jaktim
+pondok bambu | duren sawit | jaktim
+pondok kelapa | duren sawit | jaktim
+pondok kopi | duren sawit | jaktim
+bali mester | jatinegara | jaktim
+bidara cina | jatinegara | jaktim
+cipinang besar selatan | jatinegara | jaktim
+cipinang besar utara | jatinegara | jaktim
+cipinang cempedak | jatinegara | jaktim
+cipinang muara | jatinegara | jaktim
+kampung melayu | jatinegara | jaktim
+rawa bunga | jatinegara | jaktim
+balekambang | kramat jati | jaktim
+batu ampar | kramat jati | jaktim
+cawang | kramat jati | jaktim
+cililitan | kramat jati | jaktim
+dukuh | kramat jati | jaktim
+kramat jati | kramat jati | jaktim
+cipinang melayu | makasar | jaktim
+halim perdana kusuma | makasar | jaktim
+kebon pala | makasar | jaktim
+makasar | makasar | jaktim
+pinang ranti | makasar | jaktim
+kayu manis | matraman | jaktim
+kebon manggis | matraman | jaktim
+pal meriam | matraman | jaktim
+pisangan baru | matraman | jaktim
+utan kayu selatan | matraman | jaktim
+utan kayu utara | matraman | jaktim
+cijantung | pasar rebo | jaktim
+gedong | pasar rebo | jaktim
+kalisari | pasar rebo | jaktim
+pekayon | pasar rebo | jaktim
+cipinang | pulo gadung | jaktim
+jatinegara kaum | pulo gadung | jaktim
+kayu putih | pulo gadung | jaktim
+pisangan timur | pulo gadung | jaktim
+pulo gadung | pulo gadung | jaktim
+rawamangun | pulo gadung | jaktim
+cilandak barat | cilandak | jaksel
+cipete selatan | cilandak | jaksel
+gandaria selatan | cilandak | jaksel
+lebak bulus | cilandak | jaksel
+pondok labu | cilandak | jaksel
+ciganjur | jagakarsa | jaksel
+cipedak | jagakarsa | jaksel
+jagakarsa | jagakarsa | jaksel
+lenteng agung | jagakarsa | jaksel
+srengseng sawah | jagakarsa | jaksel
+tanjung barat | jagakarsa | jaksel
+cipete utara | kebayoran baru | jaksel
+gandaria utara | kebayoran baru | jaksel
+gunung | kebayoran baru | jaksel
+kramat pela | kebayoran baru | jaksel
+melawai | kebayoran baru | jaksel
+petogogan | kebayoran baru | jaksel
+rawa barat | kebayoran baru | jaksel
+selong | kebayoran baru | jaksel
+senayan | kebayoran baru | jaksel
+cipulir | kebayoran lama | jaksel
+grogol selatan | kebayoran lama | jaksel
+grogol utara | kebayoran lama | jaksel
+kebayoran lama selatan | kebayoran lama | jaksel
+kebayoran lama utara | kebayoran lama | jaksel
+pondok pinang | kebayoran lama | jaksel
+bangka | mampang prapatan | jaksel
+kuningan barat | mampang prapatan | jaksel
+mampang prapatan | mampang prapatan | jaksel
+pela mampang | mampang prapatan | jaksel
+tegal parang | mampang prapatan | jaksel
+cikoko | pancoran | jaksel
+duren tiga | pancoran | jaksel
+kalibata | pancoran | jaksel
+pancoran | pancoran | jaksel
+pengadegan | pancoran | jaksel
+rawajati | pancoran | jaksel
+cilandak timur | pasar minggu | jaksel
+jati padang | pasar minggu | jaksel
+kebagusan | pasar minggu | jaksel
+pasar minggu | pasar minggu | jaksel
+pejaten barat | pasar minggu | jaksel
+pejaten timur | pasar minggu | jaksel
+ragunan | pasar minggu | jaksel
+bintaro | pesanggrahan | jaksel
+pesanggrahan | pesanggrahan | jaksel
+petukangan selatan | pesanggrahan | jaksel
+petukangan utara | pesanggrahan | jaksel
+ulujami | pesanggrahan | jaksel
+guntur | setiabudi | jaksel
+karet kuningan | setiabudi | jaksel
+karet semanggi | setiabudi | jaksel
+karet | setiabudi | jaksel
+kuningan timur | setiabudi | jaksel
+menteng atas | setiabudi | jaksel
+pasar manggis | setiabudi | jaksel
+setiabudi | setiabudi | jaksel
+bukit duri | tebet | jaksel
+kebon baru | tebet | jaksel
+manggarai selatan | tebet | jaksel
+manggarai | tebet | jaksel
+menteng dalam | tebet | jaksel
+tebet barat | tebet | jaksel
+tebet timur | tebet | jaksel
+cengkareng barat | cengkareng | jakbar
+cengkareng timur | cengkareng | jakbar
+duri kosambi | cengkareng | jakbar
+kapuk | cengkareng | jakbar
+kedaung kali angke | cengkareng | jakbar
+rawa buaya | cengkareng | jakbar
+grogol | grogol petamburan | jakbar
+jelambar baru | grogol petamburan | jakbar
+jelambar | grogol petamburan | jakbar
+tanjung duren selatan | grogol petamburan | jakbar
+tanjung duren utara | grogol petamburan | jakbar
+tomang | grogol petamburan | jakbar
+wijaya kusuma | grogol petamburan | jakbar
+glodok | taman sari | jakbar
+keagungan | taman sari | jakbar
+krukut | taman sari | jakbar
+mangga besar | taman sari | jakbar
+maphar | taman sari | jakbar
+pinangsia | taman sari | jakbar
+taman sari | taman sari | jakbar
+tangki | taman sari | jakbar
+angke | tambora | jakbar
+duri selatan | tambora | jakbar
+duri utara | tambora | jakbar
+jembatan besi | tambora | jakbar
+jembatan lima | tambora | jakbar
+kali anyar | tambora | jakbar
+krendang | tambora | jakbar
+pekojan | tambora | jakbar
+roa malaka | tambora | jakbar
+tambora | tambora | jakbar
+tanah sereal | tambora | jakbar
+duri kepa | kebon jeruk | jakbar
+kebon jeruk | kebon jeruk | jakbar
+kedoya selatan | kebon jeruk | jakbar
+kedoya utara | kebon jeruk | jakbar
+kelapa dua | kebon jeruk | jakbar
+sukabumi selatan | kebon jeruk | jakbar
+sukabumi utara | kebon jeruk | jakbar
+kalideres | kalideres | jakbar
+kamal | kalideres | jakbar
+pegadungan | kalideres | jakbar
+semanan | kalideres | jakbar
+tegal alur | kalideres | jakbar
+jatipulo | palmerah | jakbar
+kemanggisan | palmerah | jakbar
+kota bambu selatan | palmerah | jakbar
+kota bambu utara | palmerah | jakbar
+palmerah | palmerah | jakbar
+slipi | palmerah | jakbar
+joglo | kembangan | jakbar
+kembangan selatan | kembangan | jakbar
+kembangan utara | kembangan | jakbar
+meruya selatan | kembangan | jakbar
+meruya utara | kembangan | jakbar
+srengseng | kembangan | jakbar
